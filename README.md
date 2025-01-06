@@ -38,5 +38,5 @@ A feature-rich To-Do List application built with Django, designed to help users 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/todo-list-django.git
-   cd todo-list-django
+   git clone https://github.com/yourusername/To-Do-List.git
+   cd To-Do-List
